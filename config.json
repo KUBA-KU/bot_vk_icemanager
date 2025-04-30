@@ -1,0 +1,6 @@
+{
+  "group_id": "YOUR_GROUP_ID",
+  "token": "YOUR_VK_API_TOKEN",
+  "command_cooldown": 3,
+  "log_peer_id": "ID_CHAT_FOR_LOGS"
+}
